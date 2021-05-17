@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pedro, or just PH 
+- 🌴 I'm a Brazilian student in 12th grade and willing to become a software engineer
+- 👀 I’m interested in automation, AI, Python, Ruby and backend
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on education projects like Duolingo and Minecraft Education Edition
